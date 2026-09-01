@@ -1,21 +1,24 @@
 <div class="row">
     <div class="col-xs-12">
         <h3>Sponsors</h3>
-        <p><small><a href="[% make_uri_info('sponsors.html') %]">Read more about PTS2026 sponsors</a></small></p>
+        <p><small><a href="[% make_uri_info('sponsors.html') %]">Read more about PTS2027 sponsors</a></small></p>
     </div>
 
 
 <div class="col-xs-12" style="margin-bottom: 1em;"><strong>Diamond:</strong></div>
 
+<!--
 <div class="col-xs-12 text-center">
     <a href="https://perlfoundation.org/">
         <img src="[% make_uri_info('pix/logo_tprf.png') %]" border="0" alt="The Perl and Raku Foundation" width="250" class="img-responsive" style="margin-bottom: 1em;">
     </a>
 </div>
+-->
 
 <!-- Gold -->
 <div class="col-xs-12" style="margin-bottom: 1em;"><strong>Gold:</strong></div>
 
+<!--
     <div class="col-xs-12 text-center">
         <a href="https://www.grantstreet.com/">
             <img src="[% make_uri_info('pix/GrantStreetGroup.png') %]" border="0" alt="Grant Street Group" width="250" class="img-responsive" style="margin-bottom: 1em;">
@@ -34,11 +37,13 @@
             <img src="[% make_uri_info('pix/geizhals_logo_official.svg') %]" border="0" alt="Geizhals Vergleichpreis" width="250" class="img-responsive" style="margin-bottom: 2em;">
         </a>
     </div>
+-->
 
 <!-- Silver -->
 <div class="col-xs-12" style="margin-bottom: 1em;">
     <strong>Silver:</strong>
 
+<!--
     <div class="col-xs-10 col-xs-offset-1 text-center;">
         <a href="http://www.suse.com/">
             <img class="icon" src="[% make_uri('pix/logo-Suse.png') %]" width="170" alt="SUSE" title="SUSE">
@@ -54,7 +59,7 @@
             <img class="icon" src="[% make_uri('pix/logo_jpa_rgb.png') %]" width="170" alt="Japan Perl Association" title="JPA">
         </a>
     </div>
-
+-->
 <!--
     <div class="col-xs-10 col-xs-offset-1 text-center;">
     <a href="https://www.fastmail.com/">
